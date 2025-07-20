@@ -1,0 +1,1 @@
+This python script took a training set of the LA police data, filtered by date, time, types of crime, etc. We then created our features needed, put into the training model, and tested the model with other CSV files. 
